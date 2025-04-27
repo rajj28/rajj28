@@ -12,10 +12,9 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+  <a href="https://www.linkedin.com/in/ruturaj-sonkamble-106246304/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
-<a href="http://anmolbaranwal.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
-<a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
+<a href="ruturajsonkamble29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
 </div>
 <br>
@@ -26,21 +25,13 @@
 
 <div>
 
-<i>Mostly writing, sometimes coding.</i> <br><br>
+<i>Mostly coding, sometimes writing.</i> <br><br>
 
 👋 Hi! I'm Ruturaj, 
 
-✍ Worked with startups valued at over `$50M`, trusted by founders & CEOs and reached a total of `1M+ audience` as a technical writer on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal).
-
-🎯 I've worked with 10+ funded startups including YC-backed. If you need a technical writer expert who gets developers and delivers real results, shoot me an email at `hi@anmolbaranwal.com`. Check all the details at [anmolbaranwal.com](http://anmolbaranwal.com)!
-
-🔖 I've been featured 3x as a Top Author on Devto (where I usually write) and my [open source guide](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) was picked by official GitHub community.
-
-💜 I've spent around 2 years in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of reputation. Love the ecosystem.
+💜 I've spent around 2 year in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of experence. Love the ecosystem.
 
 🤝 I also run [OpenSouls squad](https://app.daily.dev/squads/opensouls) of 1k+ members on Daily and the [OpenSouls discord community](https://dub.sh/opensouls) of 300+ members. If you've any questions, this is the best place to ask.
-
-😎 By the way, technical writing wasn't the first thing I did. I've done UX designing, research, software development, content writing and much more.
 
 I code for fun and keep learning new stuff :)
 
@@ -52,10 +43,10 @@ I code for fun and keep learning new stuff :)
   <summary>😆 More bragging about me.</summary>
   <br>
   
-  - I graduated in 2024 with 100% scholarship in CS.
+  - Graduating in 2026 with 100% scholarship in CS.
   - I've played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub).
   - Participated in Buildspace Season 4 and built [designlyfe.tech](https://designlyfe.tech/). Watch my [journey of 6 weeks](https://buildspace.so/s4/demoday/designlyfe).
-  - Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'23 Team) for _200k+_ audiences.
+  - Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'25 Team) for _200k+_ audiences.
   - Participated in a lot of competitions in college (don't really get the time anymore) and won more than 10.
 
 </details>
@@ -65,7 +56,8 @@ I code for fun and keep learning new stuff :)
   <br>
   
   💜 Competition Zone
-  - #11 in GSSoC'23 with 100+ PRs.
+  -GSOC'25 , initiated 3 mdeium projects for circuti verse and Sugarlabs with 10 contributions
+  - #11 in GSSoC'24 with 100+ PRs.
   - Won the Best Beginner Hack in [Ingenious Hackathon 5.0](https://ingenious-hackathon-4-d6bc.devfolio.co/projects).
   - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
   - 3rd Rank in a _Avenues 21_ conducted by _SJMSOM_ and _IIT Bombay_ on the topic of Vigilance Awareness.
@@ -79,21 +71,6 @@ I code for fun and keep learning new stuff :)
   - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college. I enjoy playing chess :)
   - 1200 Rank in National Coding Competition _Accio-Wars_
   - Finalist in Ad-O-Mania, conducted by IIM Ranchi.
-
-  💜 GitHub Zone
-  - _1k+_ Stars, participated in _500+_ Discussions and _200+_ Merged PRs.
-  - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AAnmol-Baranwal+is%3Aanswered).
-  - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
-  - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
-  - Open source maintainer of [LinksHub](https://www.linkshub.dev/contributors) with 600+ Stars and 2000+ PRs on GitHub.
-  - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
-
-  💜 Proud Zone
-  - Part of the Super 30 Batch, with a 100% scholarship for pursuing B.Tech CSE (3 students in the entire college)
-  - _14k+_ reputation on [Daily.dev](https://app.daily.dev/Anmol-Baranwal).
-  - Worked with 12+ international teams during the past 2 years.
-  - Gained more than 40k followers under 1 year on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal).
-  - Achieved 50+ upvotes on my Product Hunt Launch.
   
 </details>
 
@@ -103,8 +80,6 @@ I code for fun and keep learning new stuff :)
 
 <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
-
-> You can find my recommended blogs at [anmolbaranwal.com/blog](https://anmolbaranwal.com/blog).
 
 <br>
 
@@ -171,17 +146,13 @@ I code for fun and keep learning new stuff :)
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-> Find all of my projects at [anmolbaranwal.com/projects](https://anmolbaranwal.com/projects) with timeline, tech stack and necessary links.
-
 &nbsp;
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| DevtoGitHub | [Marketplace](https://github.com/marketplace/actions/devtogithub) | [view](https://github.com/Anmol-Baranwal/DevtoGitHub) | `TypeScript` `GitHub Actions` `Forem API` `Postman`|
-| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
-| Designlyfe | [view](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Audily (Hackathon-24hr) | [view](https://audily-ai.vercel.app/) | [view](https://github.com/Builders-Valley/Audily-AI) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
-| Arcjet Demo | [view](https://arcjet-demo.vercel.app/) | [view](https://github.com/Anmol-Baranwal/arcjet-demo) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
+| Nayana | [view](https://github.com/rajj28/Project-Nayana) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| Fraud Detection Using GANs | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
+| AWS hackathon | [view](https://github.com/rajj28/E-summit2025-Final-Code) | [view](https://github.com/rajj28/E-summit2025-Final-Code) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
 
 <br>
 

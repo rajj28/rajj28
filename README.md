@@ -28,7 +28,7 @@
 
 <i>Mostly writing, sometimes coding.</i> <br><br>
 
-👋 Hi! I'm Anmol, an independent technical writer creating technical content for international startups to bring organic traffic.
+👋 Hi! I'm Ruturaj, 
 
 ✍ Worked with startups valued at over `$50M`, trusted by founders & CEOs and reached a total of `1M+ audience` as a technical writer on [dev.to/anmolbaranwal](https://dev.to/anmolbaranwal).
 

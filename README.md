@@ -9,13 +9,12 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fruturajsonkamble29%2Fruturajsonkamble29&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
-<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
-  <a href="https://www.linkedin.com/in/ruturaj-sonkamble-106246304/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
-<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209(https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d)" alt="profile of Dev.to with username anmolbaranwal" /></a>
-<a href="ruturajsonkamble29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+  <a href="https://www.linkedin.com/in/ruturaj-sonkamble-106246304/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Ruturaj Sonkamble" /></a>
+  <a href="https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209" alt="profile of Medium with username ruturajsonkamble29" /></a>
+  <a href="mailto:ruturajsonkamble29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Ruturaj" /></a>
+  <a href="https://peerlist.io/ruturajs29"><img src="https://img.shields.io/badge/Peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist" /></a>
 </div>
 <br>
 
@@ -27,9 +26,9 @@
 
 <i>Mostly coding, sometimes writing.</i> <br><br>
 
-👋 Hi! I'm Ruturaj, 
+👋 Hi! I'm Ruturaj Sonkamble, 
 
-💜 I've spent around 2 year in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of experence. Love the ecosystem.
+💜 I've spent around 2 years in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of experience. Love the ecosystem.
 
 🤝 I also run [OpenSouls squad](https://app.daily.dev/squads/opensouls) of 1k+ members on Daily and the [OpenSouls discord community](https://dub.sh/opensouls) of 300+ members. If you've any questions, this is the best place to ask.
 
@@ -56,7 +55,7 @@ I code for fun and keep learning new stuff :)
   <br>
   
   💜 Competition Zone
-  -GSOC'25 , initiated 3 mdeium projects for circuti verse and Sugarlabs with 10 contributions
+  - GSOC'25, initiated 3 medium projects for CircuitVerse and SugarLabs with 10 contributions
   - #11 in GSSoC'24 with 100+ PRs.
   - Won the Best Beginner Hack in [Ingenious Hackathon 5.0](https://ingenious-hackathon-4-d6bc.devfolio.co/projects).
   - Finalist in Manthan, a nationwide competition organized by the _Ministry of Education Innovation Cell_.
@@ -68,7 +67,7 @@ I code for fun and keep learning new stuff :)
   - 3rd prize in _The Social Variable_ powered by _Connecting Dreams Foundations_ and _Amazon Web Services_ in a national competition comprising four rounds.
   - Finalist in the designathon competition conducted by _Delhi Technological University_.
   - 2nd Prize in Coding Treasure Hunt at college.
-  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college. I enjoy playing chess :)
+  - 1st Prize in chess competition at college. I enjoy playing chess :)
   - 1200 Rank in National Coding Competition _Accio-Wars_
   - Finalist in Ad-O-Mania, conducted by IIM Ranchi.
   
@@ -78,18 +77,17 @@ I code for fun and keep learning new stuff :)
 
 ## Latest Blog Posts  
 
-<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+<a href="https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Teaching AI to Read Financial Tables: Fine-Tuning LayoutLMv3 on 10-K Filings and Invoices](https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d)
 - [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
 - [30+ MCP Ideas with Complete Source Code](https://dev.to/copilotkit/30-mcp-ideas-with-complete-source-code-d8e)
 - [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
 - [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar; 🚀 🤖](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
 - [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
-- [How to Get Headless CMS in Next.js with One Line](https://dev.to/anmolbaranwal/how-to-get-headless-cms-in-nextjs-with-one-line-44mf)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -112,7 +110,7 @@ I code for fun and keep learning new stuff :)
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj28&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -124,17 +122,18 @@ I code for fun and keep learning new stuff :)
 
 | Category        | Skills        |
 |-----------------|---------------|
-| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> |
-| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Services & Tools| <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" /> <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
-| Competitive Coding | <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/anmol119"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
+| Languages | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
+| Frameworks | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
+| AI / ML | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> |
+| Services & Tools| <a href="https://github.com/rajj28"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| Competitive Coding | <a href="https://leetcode.com/u/rajjj28/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://www.geeksforgeeks.org/profile/ruturajson9dsr"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
-| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
-| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
-| Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
+| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
+| Design Tools    | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> |
+| Learning | <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> |
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -151,7 +150,7 @@ I code for fun and keep learning new stuff :)
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Nayana | [view](https://github.com/rajj28/Project-Nayana) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Fraud Detection Using GANs | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
+| Fraud Detection Using GANs | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | `Python` `PyTorch` `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
 | AWS hackathon | [view](https://github.com/rajj28/E-summit2025-Final-Code) | [view](https://github.com/rajj28/E-summit2025-Final-Code) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
 
 <br>
@@ -194,24 +193,18 @@ I code for fun and keep learning new stuff :)
   <a href="https://app.daily.dev/anmolbaranwal"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
   <br>
   <a href="https://www.polywork.com/anmolbaranwal"><img src="https://img.shields.io/badge/polywork-0A0209?style=for-the-badge&logo=polywork&logoColor=d5d5d5" ></a>
-  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
+  <a href="https://peerlist.io/ruturajs29"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
   <br>
   <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-d5d5d5?style=for-the-badge&logo=Product%20Hunt&logoColor=0A0209" /></a>
   <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-d5d5d5?style=for-the-badge&logo=Devpost&logoColor=0A0209" /></a> 
-  <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://img.shields.io/badge/showwcase-d5d5d5?style=for-the-badge&logo=showwcase&logoColor=0A0209" ></a>
   <br>
-  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
-  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
-  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-0A0209?style=for-the-badge&logo=codecademy&logoColor=d5d5d5" /></a> 
+  <a href="https://leetcode.com/u/rajjj28/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/ruturajson9dsr"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
   <br> 
-  <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
-  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
-  
+  <a href="https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/ruturaj-sonkamble-106246304/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:ruturajsonkamble29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Ruturaj Discord" ></a>
 </div>
 
 <hr>
@@ -222,11 +215,11 @@ I code for fun and keep learning new stuff :)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Sponsor me 
 
-> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/Anmol-Baranwal) for further details.
+> I've made significant contributions to the open source ecosystem. Sponsoring me gives you access to exclusive benefits, such as a private Discord channel and more. Visit the [sponsors page](https://github.com/sponsors/rajj28) for further details.
 
 <br>
 
-<a href="https://github.com/sponsors/Anmol-Baranwal"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
+<a href="https://github.com/sponsors/rajj28"><img src="https://img.shields.io/badge/sponsor-d5d5d5?style=for-the-badge&logo=GitHub-Sponsors&logoColor=0A0209" /></a>
 
 <br><br>
 
@@ -234,7 +227,7 @@ I code for fun and keep learning new stuff :)
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Ruturaj Sonkamble github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Ruturaj Sonkamble github stats](https://github-readme-stats.vercel.app/api?username=rajj28\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ruturaj Sonkamble GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajj28&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
@@ -243,6 +236,6 @@ I code for fun and keep learning new stuff :)
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/rajj28/rajj28/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

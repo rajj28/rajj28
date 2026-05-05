@@ -149,9 +149,14 @@ I code for fun and keep learning new stuff :)
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Nayana | [view](https://github.com/rajj28/Project-Nayana) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Fraud Detection Using GANs | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | `Python` `PyTorch` `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
-| AWS hackathon | [view](https://github.com/rajj28/E-summit2025-Final-Code) | [view](https://github.com/rajj28/E-summit2025-Final-Code) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
+| AI Smart Bidder — Autonomous Ad Bid Optimizer | [view](https://app.zerve.ai/notebook/2c717c92-b808-4ba8-aa75-00a41b32f364) | - | `Python` `Zerve` `Reinforcement Learning` `Autonomous Agents` |
+| Aerospace Orbital Conjunction Intelligence System | [view](https://app.zerve.ai/notebook/b1fb2cf5-0c36-4bae-8184-6c26f49ae473) | - | `Python` `Zerve` `Orbital Mechanics` `AI` `Space Intelligence` |
+| Autonomous Drone Fleet Coordinator — Multi-Agent System | - | [view](https://github.com/rajj28/Autonomous-Drone-Fleet-Coordinator-Multi-Agent-System) | `Python` `Multi-Agent Systems` `Autonomous Control` `Drone Coordination` |
+| SafePay AI — Fraud Detection System (NPCI Scale) | - | [view](https://github.com/rajj28/FraudDetectionUsingGANs) | `Python` `PyTorch` `GANs` `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` |
+| AWS Fraud Shield — Multi-Modal Call / vKYC / Transaction Detection | - | [view](https://github.com/rajj28/I-hack-esummit-2025) | `Python` `AWS` `Multi-Modal AI` `vKYC` `Next.js` `TypeScript` `Tailwind CSS` |
+| Bajaj Finserv Policy RAG Assistant | - | [view](https://github.com/rajj28/query-retrieval-using-RAG-pinecone-gpt-40-min) | `Python` `RAG` `Pinecone` `GPT-4` `LangChain` `Vector Search` |
+| Aerial Site Intelligence — Vision-Language Model (VLM) Pipeline | - | [view](https://github.com/rajj28/aerial-site-intelligence) | `Python` `VLM` `Computer Vision` `LLM` `Aerial Imagery` |
+| Nayana | [view](https://github.com/rajj28/Project-Nayana) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` |
 
 <br>
 
@@ -190,7 +195,7 @@ I code for fun and keep learning new stuff :)
 <br>
 
 <div align="center">
-  <a href="https://app.daily.dev/anmolbaranwal"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
+  <a href="https://app.daily.dev/ruturaj47"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
   <br>
   <a href="https://www.polywork.com/anmolbaranwal"><img src="https://img.shields.io/badge/polywork-0A0209?style=for-the-badge&logo=polywork&logoColor=d5d5d5" ></a>
   <a href="https://peerlist.io/ruturajs29"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>

@@ -156,19 +156,23 @@
 # My GitHub Metrics
 
 <details>
-  <summary>Expand</summary> 
+  <summary>Expand</summary>
 
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
+<div align="center">
 
-</details>                     
+| GitHub Stats | Top Languages |
+|:------------:|:-------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajj28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajj28&layout=compact&langs_count=10&theme=tokyonight&hide_border=true) |
+
+![Streak](https://streak-stats.demolab.com?user=rajj28&theme=tokyonight&hide_border=true&border_radius=8)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajj28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajj28&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+
+</details>
 <br>
 <hr>
 

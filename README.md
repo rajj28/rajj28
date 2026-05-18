@@ -24,15 +24,15 @@
 
 <div>
 
-<i>Mostly coding, sometimes writing.</i> <br><br>
+<i>Building intelligent systems. Sometimes writing about them.</i> <br><br>
 
-👋 Hi! I'm Ruturaj Sonkamble, 
+👋 Hi! I'm Ruturaj Sonkamble,
+
+🤖 I'm an AI Engineer passionate about building real-world AI systems — from multimodal document understanding and fraud detection with GANs, to autonomous multi-agent systems and RAG pipelines.
 
 💜 I've spent around 2 years in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of experience. Love the ecosystem.
 
 🤝 I also run [OpenSouls squad](https://app.daily.dev/squads/opensouls) of 1k+ members on Daily and the [OpenSouls discord community](https://dub.sh/opensouls) of 300+ members. If you've any questions, this is the best place to ask.
-
-I code for fun and keep learning new stuff :)
 
 </div>
 
@@ -75,70 +75,6 @@ I code for fun and keep learning new stuff :)
 
 <br>
 
-## Latest Blog Posts  
-
-<a href="https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Teaching AI to Read Financial Tables: Fine-Tuning LayoutLMv3 on 10-K Filings and Invoices](https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d)
-- [The guide to MCP I never had.](https://dev.to/composiodev/the-guide-to-mcp-i-never-had-1ked)
-- [30+ MCP Ideas with Complete Source Code](https://dev.to/copilotkit/30-mcp-ideas-with-complete-source-code-d8e)
-- [12 problems Developers face while Testing and how to solve them](https://dev.to/anmolbaranwal/12-problems-developers-face-while-testing-and-how-to-solve-them-1mdj)
-- [Automate 90% of Your Work with AI Agents &lpar;Real Examples &amp; Code Inside&rpar; 🚀 🤖](https://dev.to/copilotkit/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-46ke)
-- [How to connect Cursor to 100+ MCP Servers within minutes](https://dev.to/composiodev/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-> Some of the blogs I'm proud of.
-
-|  Banner  |   Details  |
-|:--------:|:-----------|
-| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed" alt="open source 100x simpler" width="700" /> | ✧ Featured in the GitHub Community <br><br> [A complete guide to open source - 100x simpler](https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c) |
-| <img src="https://github.com/user-attachments/assets/82ff0dd2-930c-4f25-a60a-f804f0b320e2" alt="side income ways as a developer" width="700" /> | ✧ Got 40k+ views and 1k+ reactions <br><br> [11 Practical Ways to Bring Side Income as a Developer 💰](https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm) |
-| <img src="https://github.com/user-attachments/assets/9207da2f-cd28-41a5-ad97-791d868dc169" alt="how to build first ai agent in 30 minutes" width="700" /> | ✧ Got 40k+ views <br><br> [Agents 101: How to build your first AI Agent in 30 minutes!](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042) |
-| <img src="https://github.com/user-attachments/assets/8b8715be-d2e6-412e-ae51-c1f436de5daa" alt="prompt engineering for developers" width="700" /> | <br><br> [Prompt Engineering For Developers: 11 Concepts and Examples](https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0) |
-| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" /> | ✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> [🎁 Shortcut to Find Open Source Projects 100x faster](https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje) |
-| <img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/f3b13dba-4639-4d93-b4fa-8a1de92cbea0" alt="30+ app ideas with complete source code" width="700" /> | ✧ Reached 40k+ Views and 1.5k+ reactions <br><br> [30+ app ideas with complete source code](https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76) |
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj28&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-
-| Category        | Skills        |
-|-----------------|---------------|
-| Languages | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| Frameworks | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
-| AI / ML | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
-| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> |
-| Services & Tools| <a href="https://github.com/rajj28"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
-| Competitive Coding | <a href="https://leetcode.com/u/rajjj28/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://www.geeksforgeeks.org/profile/ruturajson9dsr"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
-| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
-| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
-| Design Tools    | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> |
-| Learning | <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> |
-  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -160,10 +96,62 @@ I code for fun and keep learning new stuff :)
 
 <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
+| Category        | Skills        |
+|-----------------|---------------|
+| Languages | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| AI / ML Frameworks | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> |
+| LLMs & Generative AI | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/> |
+| AI Systems & Agents | <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7B2D8B?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Reinforcement%20Learning-0078D4?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Fine--Tuning-FF9500?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logoColor=white"/> |
+| Vector DBs & Search | <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white"/> |
+| MLOps & Infra | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Zerve-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/> |
+| Backend & APIs | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> |
+| Frontend | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| Dev Tools | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> |
+| Competitive Coding | <a href="https://leetcode.com/u/rajjj28/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://www.geeksforgeeks.org/profile/ruturajson9dsr"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Latest Blog Post ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Latest Blog Post
+
+<a href="https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+
+<br>
+
+|  Banner  |   Details  |
+|:--------:|:-----------|
+| <img src="https://github.com/user-attachments/assets/82ff0dd2-930c-4f25-a60a-f804f0b320e2" alt="Teaching AI to Read Financial Tables" width="700" /> | ✧ Fine-tuning LayoutLMv3 on 10-K Filings and Invoices <br><br> [Teaching AI to Read Financial Tables: Fine-Tuning LayoutLMv3 on 10-K Filings and Invoices](https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d) |
+
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<br>
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj28&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
 
 # My GitHub Metrics
 

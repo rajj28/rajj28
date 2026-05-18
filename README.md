@@ -134,7 +134,7 @@
 
 |  Banner  |   Details  |
 |:--------:|:-----------|
-| <img src="https://github.com/user-attachments/assets/82ff0dd2-930c-4f25-a60a-f804f0b320e2" alt="Teaching AI to Read Financial Tables" width="700" /> | ✧ Fine-tuning LayoutLMv3 on 10-K Filings and Invoices <br><br> [Teaching AI to Read Financial Tables: Fine-Tuning LayoutLMv3 on 10-K Filings and Invoices](https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d) |
+| <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-UkW-r_ZsV5XExcgyOUqSg.jpeg" alt="Teaching AI to Read Financial Tables" width="700" /> | ✧ Fine-tuning LayoutLMv3 on 10-K Filings and Invoices <br><br> [Teaching AI to Read Financial Tables: Fine-Tuning LayoutLMv3 on 10-K Filings and Invoices](https://medium.com/@ruturajsonkamble29/teaching-ai-to-read-financial-tables-fine-tuning-layoutlmv3-on-10-k-filings-and-invoices-dcb0c93c448d) |
 
 <br>
 
@@ -220,8 +220,13 @@
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Ruturaj Sonkamble github stats](https://github-readme-stats.vercel.app/api?username=rajj28\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ruturaj Sonkamble GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajj28&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajj28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajj28&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rajj28&theme=tokyonight&hide_border=true&border_radius=8" />
+</div>
 
 <hr>
 
@@ -230,5 +235,9 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/rajj28/rajj28/output/github-contribution-grid-snake-dark.svg)
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajj28&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

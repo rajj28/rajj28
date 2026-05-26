@@ -30,7 +30,7 @@
 
 🤖 I'm an AI Engineer passionate about building real-world AI systems — from multimodal document understanding and fraud detection with GANs, to autonomous multi-agent systems and RAG pipelines.
 
-💜 I've spent around 2 years in open source. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of experience. Love the ecosystem.
+💜 I've spent around 2 years in Ai development. Contributed to 40+ open source projects, made 200+ Pull Requests, joined 600+ discussions and earned a lot of experience. Love the ecosystem.
 
 🤝 I also run [OpenSouls squad](https://app.daily.dev/squads/opensouls) of 1k+ members on Daily and the [OpenSouls discord community](https://dub.sh/opensouls) of 300+ members. If you've any questions, this is the best place to ask.
 

@@ -44,7 +44,7 @@
   <summary>😆 More bragging about me.</summary>
   <br>
   
-  - Graduating in 2026 with 100% scholarship in CS.
+  - Graduated in 2024 with 100% scholarship in CS.
   - I've played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub).
   - Participated in Buildspace Season 4 and built [designlyfe.tech](https://designlyfe.tech/). Watch my [journey of 6 weeks](https://buildspace.so/s4/demoday/designlyfe).
   - Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'25 Team) for _200k+_ audiences.
